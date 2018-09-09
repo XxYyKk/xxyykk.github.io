@@ -16,5 +16,5 @@ tags: jekyll
 ### 搭建环境
 
 * 本博客搭建在 [github.io](https://github.io/) 上面.
-* 基于 [jekyll](https://www.jekyll.com).
+* 基于 [Jekyll](https://www.jekyll.com).
 * 使用模板[H2O](https://github.com/kaeyleo/jekyll-theme-H2O)
