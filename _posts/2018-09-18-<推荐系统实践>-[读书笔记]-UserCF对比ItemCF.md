@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '<推荐系统实践>-[读书笔记]-UserCF对比ItemCF'
+title: '<推荐系统实践> [读书笔记] UserCF对比ItemCF'
 date: 2018-09-18
 author: XxYyKk
 cover: '/assets/img/postsimg/UserCFVSItemCF.png'
-tags: 推荐系统实践 读书笔记
+tags: 《推荐系统实践》 读书笔记
 ---
 
 > 分别从技术角度和业务使用场景对基于用户的协同过滤和基于物品的协同过滤算法进行比较.
